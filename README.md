@@ -1,2 +1,2 @@
 # LearningIsEasy
-Web donde recopila material para aprender frameworks o lenguajes de programacion
+Web donde se recopila material para aprender frameworks o lenguajes de programación
